@@ -30,11 +30,6 @@ kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.2
 mistune==0.8.4
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-nb-conda==2.2.1
-nb-conda-kernels==2.3.0
 nbclient==0.5.0
 nbconvert==6.0.6
 nbformat==5.0.7
@@ -68,7 +63,6 @@ scipy==1.5.2
 seaborn==0.11.0
 Send2Trash==1.5.0
 setuptools==49.6.0.post20200925
-sip==4.19.13
 six==1.15.0
 terminado==0.8.3
 testpath==0.4.4
