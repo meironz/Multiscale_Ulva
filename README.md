@@ -1,7 +1,7 @@
 # Multiscale_Ulva
 Code and data of multiscale Ulva model
 
-Introduction
+## Introduction
 
     This is a multi-reactor, algae farm, simulation base function that will be 
     solved in time. The multiple reactors are built along the streamwise (x) direction and numbered
@@ -18,7 +18,7 @@ Introduction
     we develop a list of such using a loop and in the loop we create the coupling by propagating the Nenv[i] 
     from the first reactor to the following ones.
 
-List of variables and parameters
+## List of variables and parameters
 
     State variables
     Nsea (Nenv):  nutrient content in the stream of water, [umol N/l]
@@ -59,7 +59,7 @@ List of variables and parameters
   
     *additional arguments are imported into args
     
-Functions and notebooks
+## Functions and notebooks
 
     All functions are writen in 'myfunctions_multi_scale.py'
     The basic function is <multi_N_f_un> that performs the numeric solution in time (t) and space (x). This function is used in the
@@ -87,7 +87,7 @@ Functions and notebooks
     5. <plot_result_Qp_2cages> plots the dynamics of the first and last cages in a farm with spefic Qp, enabling to examine the effect of
        different Qp values on spatial distribution in the farm. This function is used in the 'Qp' notebook. 
 
-Data
+## Data
     
     The data is distributed along six excel files:
     1. input
@@ -96,3 +96,16 @@ Data
        'T_multi-scale' - has water temperature data (before interpulation) for simulations
     2. ims_data_2017_PAR, ims_data_2017_umol_photons, ims_T_data_2017 and HOBO - have temperature and light intensity data for calibration
     3. ims_data_2014_umol_photons - has light intensity data for simulations
+
+
+## How to install 
+
+   We recommend using Anaconda Python Distribution and `conda` environments. After installing Anaconda or Miniconda, please use the following command to reproduce the environment:
+
+         conda env create --file multiscale_ulva.yml
+
+
+## How to cite this work
+
+      Please cite our publication ... 
+      Please cite our code using DOI: 
