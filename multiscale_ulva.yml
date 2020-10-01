@@ -60,8 +60,8 @@ dependencies:
   - libxml2=2.9.10=he19cac6_1
   - lz4-c=1.9.2=he6710b0_1
   - markupsafe=1.1.1=py38h7b6447c_0
-  - matplotlib=3.2.2
-  - matplotlib-base=3.2.2
+  - matplotlib=3.2.2=0
+  - matplotlib-base=3.2.2=py38hef1b27d_0
   - mistune=0.8.4=py38h7b6447c_1000
   - mkl=2020.2=256
   - mkl-service=2.3.0=py38he904b0f_0
@@ -128,4 +128,6 @@ dependencies:
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.5=h9ceee32_0
+  - pip:
+    - salib==1.3.11
 prefix: /home/user/miniconda3/envs/multiscale_ulva
