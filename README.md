@@ -102,7 +102,8 @@ Code and data of multiscale Ulva model
 
    We recommend using Anaconda Python Distribution and `conda` environments. After installing Anaconda or Miniconda, please use the following command to reproduce the environment:
 
-         conda env create --file multiscale_ulva.yml
+         conda env create --file environment.yml
+         conda activate multiscale_ulva
 
 
 ## How to cite this work
