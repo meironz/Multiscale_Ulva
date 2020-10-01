@@ -60,8 +60,8 @@ dependencies:
   - libxml2=2.9.10=he19cac6_1
   - lz4-c=1.9.2=he6710b0_1
   - markupsafe=1.1.1=py38h7b6447c_0
-  - matplotlib=3.3.1=0
-  - matplotlib-base=3.3.1=py38h817c723_0
+  - matplotlib=3.2.2
+  - matplotlib-base=3.2.2
   - mistune=0.8.4=py38h7b6447c_1000
   - mkl=2020.2=256
   - mkl-service=2.3.0=py38he904b0f_0
@@ -107,6 +107,7 @@ dependencies:
   - readline=8.0=h7b6447c_0
   - requests=2.24.0=py_0
   - scipy=1.5.2=py38h0b6359f_0
+  - seaborn=0.11.0=py_0
   - send2trash=1.5.0=py38_0
   - setuptools=49.6.0=py38_1
   - sip=4.19.13=py38he6710b0_0
