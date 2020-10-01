@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexliberzonlab/Multiscale_Ulva/master?filepath=Notebooks%2FYear-round_productivities.ipynb)
+
 # Multiscale_Ulva
 Code and data of multiscale Ulva model
 
