@@ -118,6 +118,7 @@ Code and data of multiscale Ulva model
 
 ## How to cite this work
 
-      Please cite our publication ... 
-      Please cite our code using DOI: [![DOI](https://zenodo.org/badge/300355196.svg)](https://zenodo.org/badge/latestdoi/300355196)
+ Please cite our publication ... 
+
+ Please cite our code using DOI: https://doi.org/10.5281/zenodo.4062432
 
