@@ -2,6 +2,7 @@ name: multiscale_ulva
 channels:
   - defaults
 dependencies:
+  - _libgcc_mutex=0.1=main
   - argon2-cffi=20.1.0=py38h7b6447c_1
   - async_generator=1.10=py_0
   - attrs=20.2.0=py_0
