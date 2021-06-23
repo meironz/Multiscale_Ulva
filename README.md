@@ -1,4 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5017069.svg)](https://doi.org/10.5281/zenodo.5017069)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexliberzonlab/Multiscale_Ulva/master?filepath=Notebooks)
+
 
 # Multiscale_Ulva
 Code and data of multiscale Ulva model
