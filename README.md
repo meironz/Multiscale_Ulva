@@ -115,5 +115,5 @@ Code and data of multiscale Ulva model
       Please cite our publication: 
       Zollmann, M., Rubinsky, B., Liberzon, A., & Golberg, A. (2020). Multi-Scale Modeling of Intensive Macroalgae       Cultivation and Marine Nitrogen Sequestration. bioRxiv.
       
-      Please cite our code using DOI: 10.5281/zenodo.4062432
+      Please cite our code using DOI: http://doi.org/10.5281/zenodo.5017069
 
